@@ -1,0 +1,349 @@
+HEADER    ----                                    21-OCT-20
+TITLE     MDANALYSIS FRAME 0: Created by PDBWriter
+COMPND    ---
+REMARK     Crystal PSI00088
+REMARK     MAY-SPB05355ZZ
+REMARK     --------------------- added by autoBUSTER
+REMARK     ---------------------------------START
+REMARK     run at   = Tue Dec 13 13:04:08 CET 2022
+REMARK     in   = /home/macswae1/CCP4I2_PROJECTS/3CL_ACT_506176A
+REMARK     user = macswae1
+REMARK     cmd  = \
+REMARK     /home/macswae1/GPhL/ALL_snapshot_20220608/autoBUSTER/bin/linux64/r
+REMARK     efine \
+REMARK     -p refine-coot-1.pdb -m refine.mtz -l 1-88.cif -d round2 \
+REMARK     -autoncs2 AutomaticFormfactorCorrection=yes \
+REMARK     -sim_swap_equiv_plus -nthreads 40 -noWat -M ShortRun
+REMARK     Files used:
+REMARK     PDB              = round2/pdbchk.pdb
+REMARK     MTZ              =
+REMARK     /home/macswae1/CCP4I2_PROJECTS/3CL_ACT_506176A/refine.mtz
+REMARK     output written to subdirectory = round2
+REMARK     best refinement for F,SIGF with R/Rfree 0.2260/0.2701
+REMARK     header records are copied from input PDB file (apart from REMARK
+REMARK     3!)
+REMARK     --------------------- added by autoBUSTER
+REMARK     -----------------------------------END
+REMARK     --------------------- added by autoBUSTER
+REMARK     -------------------------------
+REMARK     run at   = Tue Dec 13 11:57:35 CET 2022
+REMARK     in   = /home/macswae1/CCP4I2_PROJECTS/3CL_ACT_506176A
+REMARK     user = macswae1
+REMARK     cmd  = \
+REMARK     /home/macswae1/GPhL/ALL_snapshot_20220608/autoBUSTER/bin/linux
+REMARK     -p refine.pdb -m refine.mtz -l 1-88.cif -d round1 -autoncs2 \
+REMARK     AutomaticFormfactorCorrection=yes -sim_swap_equiv_plus \
+REMARK     -nthreads 40
+REMARK     Files used:
+REMARK     PDB              = round1/pdbchk.pdb
+REMARK     MTZ              =
+REMARK     /home/macswae1/CCP4I2_PROJECTS/3CL_ACT_506176A/refin
+REMARK     output written to subdirectory = round1
+REMARK     best refinement for F,SIGF with R/Rfree 0.2262/0.2696
+REMARK     header records are copied from input PDB file (apart from REMARK
+REMARK     3!)
+REMARK     --------------------- added by autoBUSTER
+REMARK     -------------------------------
+REMARK     --------------------- added by autoBUSTER
+REMARK     -------------------------------
+REMARK     run at   = Wed Jun 15 19:24:08 CEST 2022
+REMARK     in   = /Volumes/CY_H/Idorsia_FFCS/all_good_20220608
+REMARK     user = cyhuang
+REMARK     cmd  = \
+REMARK     /Users/cyhuang/GPhL/BUSTER_snapshot_20210716/autoBUSTER/bin/da
+REMARK     -p 1-88.pdb -l cif/1-88.cif -l DMS_g.cif -m 1-88.mtz \
+REMARK     StopOnGellySanityCheckError=no UsePdbchk=no -d 1-88
+REMARK     Files used:
+REMARK     PDB              = 1-88/pdb.pdb
+REMARK     MTZ              =
+REMARK     /Volumes/CY_H/Idorsia_FFCS/all_good_20220608/1-88.mt
+REMARK     output written to subdirectory = 1-88
+REMARK     best refinement for F,SIGF with R/Rfree 0.2222/0.2703
+REMARK     header records are copied from input PDB file (apart from REMARK
+REMARK     3!)
+REMARK     --------------------- added by autoBUSTER
+REMARK     -------------------------------
+REMARK     --------------------- added by autoBUSTER
+REMARK     -------------------------------
+REMARK     run at   = Mon Nov 16 14:12:19 CET 2020
+REMARK     in   = /Volumes/CY_H/Idorsia_200Prio_100k/2Run_check/Runagain
+REMARK     user = cyhuang
+REMARK     cmd  = \
+REMARK     /Users/cyhuang/GPhL/BUSTER_snapshot_20200918/autoBUSTER/bin/da
+REMARK     -p 3CL100-a088.pdb -l ../../cif/3CL100-a088.cif -l \
+REMARK     ../../cif/DMS.cif -m 3CL100-a088.mtz \
+REMARK     StopOnGellySanityCheckError=no UsePdbchk=no -WAT -Gelly \
+REMARK     3CL100-a088.gelly -d 3CL100-a088_Occ2Lig
+REMARK     Files used:
+REMARK     PDB              = 3CL100-a088_Occ2Lig/pdb.pdb
+REMARK     MTZ              =
+REMARK     /Volumes/CY_H/Idorsia_200Prio_100k/2Run_check/Runaga
+REMARK     Gelly commands       =
+REMARK     /Volumes/CY_H/Idorsia_200Prio_100k/2Run_check/Ru
+REMARK     output written to subdirectory = 3CL100-a088_Occ2Lig
+REMARK     best refinement for F,SIGF with R/Rfree 0.2051/0.2472
+REMARK     header records are copied from input PDB file (apart from REMARK
+REMARK     3!)
+REMARK     --------------------- added by autoBUSTER
+REMARK     -------------------------------
+REMARK     --------------------- added by autoBUSTER
+REMARK     -------------------------------
+REMARK     run at   = Wed Nov 11 21:31:25 CET 2020
+REMARK     in   = /Volumes/CY_H/Idorsia_200Prio_100k/FitLIG_Occ_Buster/Run3
+REMARK     user = cyhuang
+REMARK     cmd  = \
+REMARK     /Users/cyhuang/GPhL/BUSTER_snapshot_20200918/autoBUSTER/bin/da
+REMARK     -p 3CL100-a014-pandda.pdb -l ../../cif/3CL100-a014.cif -l \
+REMARK     ../../cif/DMS.cif -m 3CL100-a014.mtz \
+REMARK     StopOnGellySanityCheckError=no -L -Gelly 3CL100-a014.gelly \
+REMARK     -nsmall 30 -d 3CL100-a014_Occ3Lig
+REMARK     Files used:
+REMARK     PDB              = 3CL100-a014_Occ3Lig/pdbchk.pdb
+REMARK     MTZ              =
+REMARK     /Volumes/CY_H/Idorsia_200Prio_100k/FitLIG_Occ_Buster
+REMARK     Gelly commands       =
+REMARK     /Volumes/CY_H/Idorsia_200Prio_100k/FitLIG_Occ_Bu
+REMARK     output written to subdirectory = 3CL100-a014_Occ3Lig
+REMARK     best refinement for F,SIGF with R/Rfree 0.2209/0.2719
+REMARK     header records are copied from input PDB file (apart from REMARK
+REMARK     3!)
+REMARK     --------------------- added by autoBUSTER
+REMARK     -------------------------------
+REMARK     --------------------- added by autoBUSTER
+REMARK     -------------------------------
+REMARK     run at   = Wed Nov 11 10:32:34 CET 2020
+REMARK     in   = /Volumes/CY_H/Idorsia_200Prio_100k/FitLIG_Occ_Buster/run2
+REMARK     user = cyhuang
+REMARK     cmd  = \
+REMARK     /Users/cyhuang/GPhL/BUSTER_snapshot_20200918/autoBUSTER/bin/da
+REMARK     -p 3CL100-a014-refine-coot-0.pdb -l ../../cif/3CL100-a014.cif
+REMARK     -l ../../cif/DMS.cif -m 3CL100-a014.mtz \
+REMARK     StopOnGellySanityCheckError=no -Gelly ../3CL100-a014.gelly \
+REMARK     -nsmall 30 -d 3CL100-a014_Occ2Lig
+REMARK     Files used:
+REMARK     PDB              = 3CL100-a014_Occ2Lig/pdbchk.pdb
+REMARK     MTZ              =
+REMARK     /Volumes/CY_H/Idorsia_200Prio_100k/FitLIG_Occ_Buster
+REMARK     Gelly commands       =
+REMARK     /Volumes/CY_H/Idorsia_200Prio_100k/FitLIG_Occ_Bu
+REMARK     output written to subdirectory = 3CL100-a014_Occ2Lig
+REMARK     best refinement for F,SIGF with R/Rfree 0.2241/0.2717
+REMARK     header records are copied from input PDB file (apart from REMARK
+REMARK     3!)
+REMARK     --------------------- added by autoBUSTER
+REMARK     -------------------------------
+REMARK     --------------------- added by autoBUSTER
+REMARK     -------------------------------
+REMARK     run at   = Mon Nov  9 15:58:11 CET 2020
+REMARK     in   = /Volumes/CY_H/Idorsia_200Prio_100k/FitLIG_Occ_Buster
+REMARK     user = cyhuang
+REMARK     cmd  = \
+REMARK     /Users/cyhuang/GPhL/BUSTER_snapshot_20200918/autoBUSTER/bin/da
+REMARK     -p 3CL100-a014.dimple-coot-0.pdb -l ../cif/3CL100-a014.cif -l
+REMARK     ../cif/DMS.cif -m 3CL100-a014.mtz \
+REMARK     StopOnGellySanityCheckError=no -L -Gelly 3CL100-a014.gelly \
+REMARK     -nsmall 30 -d 3CL100-a014_OccLig
+REMARK     Files used:
+REMARK     PDB              = 3CL100-a014_OccLig/pdbchk.pdb
+REMARK     MTZ              =
+REMARK     /Volumes/CY_H/Idorsia_200Prio_100k/FitLIG_Occ_Buster
+REMARK     Gelly commands       =
+REMARK     /Volumes/CY_H/Idorsia_200Prio_100k/FitLIG_Occ_Bu
+REMARK     output written to subdirectory = 3CL100-a014_OccLig
+REMARK     best refinement for F,SIGF with R/Rfree 0.2239/0.2696
+REMARK     header records are copied from input PDB file (apart from REMARK
+REMARK     3!)
+REMARK     --------------------- added by autoBUSTER
+REMARK     -------------------------------
+REMARK     2
+REMARK     2 RESOLUTION.    1.79 ANGSTROMS.
+REMARK     3
+REMARK     3 REFINEMENT.
+REMARK     3   PROGRAM     : BUSTER 2.11.8 (8-JUN-2022)
+REMARK     3   AUTHORS     : BRICOGNE,BLANC,BRANDL,FLENSBURG,KELLER,
+REMARK     3               : PACIOREK,ROVERSI,SHARFF,SMART,VONRHEIN,WOMACK;
+REMARK     3               : MATTHEWS,TEN EYCK,TRONRUD
+REMARK     3
+REMARK     3  DATA USED IN REFINEMENT.
+REMARK     3   RESOLUTION RANGE HIGH (ANGSTROMS) : 1.790
+REMARK     3   RESOLUTION RANGE LOW  (ANGSTROMS) : 72.78
+REMARK     3   DATA CUTOFF            (SIGMA(F)) : 0.000
+REMARK     3   COMPLETENESS FOR RANGE        (%) : 74.9
+REMARK     3   NUMBER OF REFLECTIONS             : 51558
+REMARK     3
+REMARK     3  FIT TO DATA USED IN REFINEMENT.
+REMARK     3   CROSS-VALIDATION METHOD          : THROUGHOUT
+REMARK     3   FREE R VALUE TEST SET SELECTION  : RANDOM
+REMARK     3   R VALUE     (WORKING + TEST SET) : 0.2282
+REMARK     3   R VALUE            (WORKING SET) : 0.2260
+REMARK     3   FREE R VALUE                     : 0.2701
+REMARK     3   FREE R VALUE TEST SET SIZE   (%) : 5.130
+REMARK     3   FREE R VALUE TEST SET COUNT      : 2647
+REMARK     3   ESTIMATED ERROR OF FREE R VALUE  : NULL
+REMARK     3
+REMARK     3  FIT IN THE HIGHEST RESOLUTION BIN.
+REMARK     3   TOTAL NUMBER OF BINS USED           : 51
+REMARK     3   BIN RESOLUTION RANGE HIGH       (A) : 1.79
+REMARK     3   BIN RESOLUTION RANGE LOW        (A) : 1.92
+REMARK     3   BIN COMPLETENESS (WORKING+TEST) (%) : 8.20
+REMARK     3   REFLECTIONS IN BIN   (WORKING+TEST) : 1032
+REMARK     3   BIN R VALUE          (WORKING+TEST) : 0.3078
+REMARK     3   REFLECTIONS IN BIN    (WORKING SET) : 960
+REMARK     3   BIN R VALUE           (WORKING SET) : 0.3032
+REMARK     3   BIN FREE R VALUE                    : 0.3751
+REMARK     3   BIN FREE R VALUE TEST SET SIZE  (%) : 6.98
+REMARK     3   BIN FREE R VALUE TEST SET COUNT     : 72
+REMARK     3   ESTIMATED ERROR OF BIN FREE R VALUE : NULL
+REMARK     3
+REMARK     3  NUMBER OF NON-HYDROGEN ATOMS USED IN REFINEMENT.
+REMARK     3   PROTEIN ATOMS            : 4662
+REMARK     3   NUCLEIC ACID ATOMS       : 0
+REMARK     3   HETEROGEN ATOMS          : 101
+REMARK     3   SOLVENT ATOMS            : 409
+REMARK     3
+REMARK     3  B VALUES.
+REMARK     3   FROM WILSON PLOT           (A**2) : 28.16
+REMARK     3   MEAN B VALUE      (OVERALL, A**2) : 31.32
+REMARK     3   OVERALL ANISOTROPIC B VALUE.
+REMARK     3    B11 (A**2) : 0.27160
+REMARK     3    B22 (A**2) : -0.82420
+REMARK     3    B33 (A**2) : 0.55260
+REMARK     3    B12 (A**2) : 0.00000
+REMARK     3    B13 (A**2) : 0.00000
+REMARK     3    B23 (A**2) : 0.00000
+REMARK     3
+REMARK     3  ESTIMATED COORDINATE ERROR.
+REMARK     3   ESD FROM LUZZATI PLOT                    (A) : 0.28
+REMARK     3   DPI (BLOW EQ-10) BASED ON R VALUE        (A) : 0.192
+REMARK     3   DPI (BLOW EQ-9) BASED ON FREE R VALUE    (A) : 0.172
+REMARK     3   DPI (CRUICKSHANK) BASED ON R VALUE       (A) : 0.181
+REMARK     3   DPI (CRUICKSHANK) BASED ON FREE R VALUE  (A) : 0.168
+REMARK     3
+REMARK     3   REFERENCES: BLOW, D. (2002) ACTA CRYST D58, 792-797
+REMARK     3               CRUICKSHANK, D.W.J. (1999) ACTA CRYST D55, 583-601
+REMARK     3
+REMARK     3  CORRELATION COEFFICIENTS.
+REMARK     3   CORRELATION COEFFICIENT FO-FC      : 0.934
+REMARK     3   CORRELATION COEFFICIENT FO-FC FREE : 0.909
+REMARK     3
+REMARK     3  X-RAY WEIGHT : 7.08
+REMARK     3
+REMARK     3  GEOMETRY FUNCTION.
+REMARK     3   RESTRAINT LIBRARIES.
+REMARK     3    NUMBER OF LIBRARIES USED :  10
+REMARK     3    LIBRARY  1 : protgeo_eh99.dat (V1.8.2.20) 20220523  STANDARD
+REMARK     3                 AMINO ACID DICTIONARY. BONDS AND ANGLES FROM
+REMARK     3                 ENGH AND HUBER EH99. OTHER VALUES BASED ON
+REMARK     3                 PREVIOUS TNT OR TAKEN FROM CCP4. INCLUDES
+REMARK     3                 HYDROGEN ATOMS.
+REMARK     3    LIBRARY  2 : exoticaa.dat (V1.8.2.12) 20220523  COLLECTION
+REMARK     3                 OF NON-STANDARD AMINO ACIDS, MAINLY EH91
+REMARK     3                 WITHOUT IDEAL DISTANCE INFO
+REMARK     3    LIBRARY  3 : nuclgeo.dat (V1.14.2.7) 20190909
+REMARK     3    LIBRARY  4 : bcorrel.dat (V1.15.12.2) 20190616
+REMARK     3    LIBRARY  5 : contact.dat (V1.20.2.6) 20191121
+REMARK     3    LIBRARY  6 : idealdist_contact.dat (V1.7.2.10) 20220125
+REMARK     3                 IDEAL-DISTANCE CONTACT TERM DATA AS USED IN
+REMARK     3                 PROLSQ. VALUES USED HERE ARE BASED ON DATA
+REMARK     3                 HARVESTING OF PDB AS OF 20190109.
+REMARK     3    LIBRARY  7 : restraints for LIG (Unknown) from cif
+REMARK     3                 dictionary 1-88.cif
+REMARK     3    LIBRARY  8 : restraints for DMS (DIMETHYL SULFOXIDE) from
+REMARK     3                 cif dictionary DMS.cif; generated by grade2
+REMARK     3                 version 1.1.0a7 from
+REMARK     3                 PDB_chemical_components_definition_file
+REMARK     3                 ftp://ftp.ebi.ac.uk/pub/databases/msd/pdbechem_v
+REMARK     3                 2/D/DMS/DMS.cif using RDKit 2021.03.4
+REMARK     3                 ((DatabaseID PDB-DMS))
+REMARK     3    LIBRARY  9 : restraints for PO4 (PHOSPHATE ION) from cif
+REMARK     3                 dictionary PO4.cif; generated by grade2 version
+REMARK     3                 1.1.0a7 from
+REMARK     3                 PDB_chemical_components_definition_file
+REMARK     3                 ftp://ftp.ebi.ac.uk/pub/databases/msd/pdbechem_v
+REMARK     3                 2/P/PO4/PO4.cif using RDKit 2021.03.4
+REMARK     3                 ((DatabaseID PDB-PO4))
+REMARK     3    LIBRARY 10 : assume.dat (V1.10.2.1) 20180705
+REMARK     3
+REMARK     3   NUMBER OF GEOMETRIC FUNCTION TERMS DEFINED : 15
+REMARK     3   TERM                          COUNT    WEIGHT   FUNCTION.
+REMARK     3    BOND LENGTHS              :   4846 ;   2.00 ;  HARMONIC
+REMARK     3    BOND ANGLES               :   6569 ;   2.00 ;  HARMONIC
+REMARK     3    TORSION ANGLES            :   1605 ;   2.00 ;  SINUSOIDAL
+REMARK     3    TRIGONAL CARBON PLANES    :   NULL ;   NULL ;  NULL
+REMARK     3    GENERAL PLANES            :    819 ;   5.00 ;  HARMONIC
+REMARK     3    ISOTROPIC THERMAL FACTORS :   4846 ;  10.00 ;  HARMONIC
+REMARK     3    BAD NON-BONDED CONTACTS   :   NULL ;   NULL ;  NULL
+REMARK     3    IMPROPER TORSIONS         :   NULL ;   NULL ;  NULL
+REMARK     3    PSEUDOROTATION ANGLES     :   NULL ;   NULL ;  NULL
+REMARK     3    CHIRAL IMPROPER TORSION   :    620 ;   5.00 ;  SEMIHARMONIC
+REMARK     3    SUM OF OCCUPANCIES        :   NULL ;   NULL ;  NULL
+REMARK     3    UTILITY DISTANCES         :   NULL ;   NULL ;  NULL
+REMARK     3    UTILITY ANGLES            :   NULL ;   NULL ;  NULL
+REMARK     3    UTILITY TORSION           :   NULL ;   NULL ;  NULL
+REMARK     3    IDEAL-DIST CONTACT TERM   :   4207 ;   4.00 ;  SEMIHARMONIC
+REMARK     3
+REMARK     3   RMS DEVIATIONS FROM IDEAL VALUES.
+REMARK     3   BOND LENGTHS                       (A) : 0.009
+REMARK     3   BOND ANGLES                  (DEGREES) : 1.02
+REMARK     3   PEPTIDE OMEGA TORSION ANGLES (DEGREES) : 3.77
+REMARK     3   OTHER TORSION ANGLES         (DEGREES) : 17.12
+REMARK     3
+REMARK     3   SIMILARITY.
+REMARK     3    NCS.
+REMARK     3     NCS METHOD: RESTRAINT LSSR (-AUTONCS)
+REMARK     3    TARGET RESTRAINTS.
+REMARK     3     TARGET REPRESENTATION : NONE
+REMARK     3     TARGET STRUCTURE : NULL
+REMARK     3
+REMARK     3  TLS DETAILS.
+REMARK     3   NUMBER OF TLS GROUPS  :            0
+REMARK     3
+REMARK     3  REFINEMENT NOTES.
+REMARK     3   NUMBER OF REFINEMENT NOTES :   1
+REMARK     3   NOTE   1 : IDEAL-DIST CONTACT TERM CONTACT SETUP. ALL ATOMS
+REMARK     3               HAVE CCP4 ATOM TYPE FROM LIBRARY
+REMARK     3
+REMARK     3  OTHER REFINEMENT REMARKS: NULL
+REMARK     3
+REMARK     290
+REMARK     290 CRYSTALLOGRAPHIC SYMMETRY
+REMARK     290 SYMMETRY OPERATORS FOR SPACE GROUP: P 21 21 21
+REMARK     290
+REMARK     290      SYMOP   SYMMETRY
+REMARK     290     NNNMMM   OPERATOR
+REMARK     290       1555   X,Y,Z
+REMARK     290       2555   1/2-X,-Y,1/2+Z
+REMARK     290       3555   -X,1/2+Y,1/2-Z
+REMARK     290       4555   1/2+X,1/2-Y,-Z
+REMARK     290
+REMARK     290     WHERE NNN -> OPERATOR NUMBER
+REMARK     290           MMM -> TRANSLATION VECTOR
+REMARK     290
+REMARK     290 CRYSTALLOGRAPHIC SYMMETRY TRANSFORMATIONS
+REMARK     290 THE FOLLOWING TRANSFORMATIONS OPERATE ON THE ATOM/HETATM
+REMARK     290 RECORDS IN THIS ENTRY TO PRODUCE CRYSTALLOGRAPHICALLY
+REMARK     290 RELATED MOLECULES.
+REMARK     290   SMTRY1   1  1.000000  0.000000  0.000000        0.00000
+REMARK     290   SMTRY2   1  0.000000  1.000000  0.000000        0.00000
+REMARK     290   SMTRY3   1  0.000000  0.000000  1.000000        0.00000
+REMARK     290   SMTRY1   2 -1.000000  0.000000  0.000000       34.05000
+REMARK     290   SMTRY2   2  0.000000 -1.000000  0.000000        0.00000
+REMARK     290   SMTRY3   2  0.000000  0.000000  1.000000       52.35000
+REMARK     290   SMTRY1   3 -1.000000  0.000000  0.000000        0.00000
+REMARK     290   SMTRY2   3  0.000000  1.000000  0.000000       50.61500
+REMARK     290   SMTRY3   3  0.000000  0.000000 -1.000000       52.35000
+REMARK     290   SMTRY1   4  1.000000  0.000000  0.000000       34.05000
+REMARK     290   SMTRY2   4  0.000000 -1.000000  0.000000       50.61500
+REMARK     290   SMTRY3   4  0.000000  0.000000 -1.000000        0.00000
+REMARK     290
+REMARK     290 REMARK: NULL
+CRYST1   68.100  101.230  104.700  90.00  90.00  90.00 P 1           1
+HETATM    1  C01 LIG A1501     -18.064  -5.411 -25.209  0.98 52.86      A    C  
+HETATM    2  C02 LIG A1501     -16.742  -5.896 -25.329  0.98 53.08      A    C  
+HETATM    3  C03 LIG A1501     -16.300  -7.363 -25.272  0.98 53.89      A    C  
+HETATM    4  C04 LIG A1501     -16.520  -8.005 -26.632  0.98 54.56      A    C  
+HETATM    5  O07 LIG A1501     -17.085  -8.097 -24.377  0.98 54.69      A    O  
+HETATM    6  N08 LIG A1501     -15.974  -4.845 -25.519  0.98 52.50      A    N  
+HETATM    7  N09 LIG A1501     -16.680  -3.727 -25.530  0.98 52.11      A    N  
+HETATM    8  C10 LIG A1501     -17.947  -4.007 -25.335  0.98 52.45      A    C  
+END

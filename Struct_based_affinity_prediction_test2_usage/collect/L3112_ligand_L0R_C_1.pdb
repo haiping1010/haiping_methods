@@ -1,0 +1,48 @@
+HEADER    Compound ID 141_REFMAC                       18-Jun-12
+TITLE     MDANALYSIS FRAME 0: Created by PDBWriter
+COMPND    MOL_ID: 1;
+COMPND    2 MOLECULE: AUTOTAXIN ENPP2
+COMPND    3 CHAIN: A;
+COMPND    4 FRAGMENT: RESIDUES 1-862;
+COMPND    5 SYNONYM: AUTOTAXIN ENPP2, EXTRACELLULAR LYSOPHOSPHOLIPASE D,
+COMPND    6  LYSOPLD, AUTOTAXIN, E-NPP 2;
+COMPND    7 EC: 3.1.4.39;
+COMPND    8 ENGINEERED: YES;
+COMPND    9 MUTATION: YES
+COMPND    10 1-[(3aR,6aR)-5-(1H-Benzotriazole-5-carbonyl)-hexahydro-pyrrolo[3,4-c]
+CRYST1   84.712   92.936  121.168  90.00  90.00  90.00 P 1           1
+HETATM    1  N01 L0R C   1     -13.713   9.681  48.664  1.00 31.92      C    N  
+HETATM    2  C02 L0R C   1     -14.426  10.750  49.576  1.00 31.52      C    C  
+HETATM    3  C03 L0R C   1     -12.170   9.917  48.661  1.00 31.93      C    C  
+HETATM    4  C04 L0R C   1     -11.939  11.026  49.767  1.00 32.52      C    C  
+HETATM    5  C05 L0R C   1     -13.271  11.259  50.510  1.00 30.65      C    C  
+HETATM    6  C06 L0R C   1     -12.997  12.637  51.293  1.00 30.10      C    C  
+HETATM    7  N07 L0R C   1     -11.525  12.352  51.771  1.00 30.39      C    N  
+HETATM    8  C08 L0R C   1     -10.818  11.246  50.880  1.00 30.50      C    C  
+HETATM    9  C11 L0R C   1     -10.953  13.024  52.854  1.00 31.15      C    C  
+HETATM   10  C12 L0R C   1      -9.596  12.741  53.368  1.00 27.51      C    C  
+HETATM   11  O13 L0R C   1     -11.678  13.833  53.424  1.00 37.54      C    O  
+HETATM   12  C14 L0R C   1      -9.332  11.440  53.782  1.00 26.85      C    C  
+HETATM   13  C15 L0R C   1      -8.095  11.129  54.303  1.00 25.50      C    C  
+HETATM   14  C16 L0R C   1      -8.657  13.753  53.497  1.00 26.35      C    C  
+HETATM   15  C17 L0R C   1      -7.397  13.443  54.060  1.00 26.66      C    C  
+HETATM   16  C18 L0R C   1      -7.118  12.151  54.449  1.00 25.49      C    C  
+HETATM   17  N19 L0R C   1      -5.841  12.114  54.946  1.00 25.15      C    N  
+HETATM   18  N20 L0R C   1      -5.352  13.386  54.848  1.00 29.18      C    N  
+HETATM   19  N21 L0R C   1      -6.298  14.214  54.300  1.00 25.02      C    N  
+HETATM   20  C22 L0R C   1     -14.352   8.651  47.962  1.00 33.55      C    C  
+HETATM   21  C23 L0R C   1     -13.466   7.726  47.169  1.00 32.00      C    C  
+HETATM   22  O24 L0R C   1     -15.569   8.573  48.058  1.00 34.85      C    O  
+HETATM   23  C25 L0R C   1     -14.197   6.849  46.206  1.00 31.09      C    C  
+HETATM   24  C26 L0R C   1     -13.186   6.011  45.518  1.00 31.84      C    C  
+HETATM   25  C27 L0R C   1     -12.511   6.473  44.380  1.00 31.75      C    C  
+HETATM   26  C28 L0R C   1     -11.572   5.632  43.785  1.00 31.43      C    C  
+HETATM   27  C29 L0R C   1     -11.332   4.359  44.320  1.00 32.30      C    C  
+HETATM   28  C30 L0R C   1     -12.021   3.911  45.434  1.00 32.68      C    C  
+HETATM   29  C31 L0R C   1     -12.941   4.743  46.042  1.00 31.80      C    C  
+HETATM   30  O32 L0R C   1     -10.407   3.507  43.774  1.00 32.68      C    O  
+HETATM   31  C33 L0R C   1     -10.773   2.677  42.769  1.00 36.16      C    C  
+HETATM   32  F34 L0R C   1     -11.136   3.418  41.730  1.00 41.28      C    F  
+HETATM   33  F35 L0R C   1      -9.768   1.894  42.435  1.00 39.22      C    F  
+HETATM   34  F36 L0R C   1     -11.765   1.918  43.207  1.00 36.61      C    F  
+END

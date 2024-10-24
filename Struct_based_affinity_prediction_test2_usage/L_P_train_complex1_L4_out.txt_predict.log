@@ -1,0 +1,14 @@
+/data/zhanghp/anaconda3/envs/RTMscore_n/lib/python3.8/site-packages/torch_geometric/deprecation.py:13: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+2xxxx
+cuda_name: cuda
+Learning rate:  0.0005
+Epochs:  1
+data1/processed/L_P_train_complex1_L4_out.txt.ptxxxxxxxxxxx
+Pre-processed data found: data1/processed/L_P_train_complex1_L4_out.txt.pt, loading ...
+NVIDIA GeForce RTX 3080 Ti
+True
+alldata len: 29829
+Test on 29829 samples...
+75xxxxxx
+Make prediction for 29829 samples...

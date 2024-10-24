@@ -1,0 +1,417 @@
+HEADER    Compound ID 98_PHENIX                       24-Aug-12
+TITLE     MDANALYSIS FRAME 0: Created by PDBWriter
+COMPND    MOL_ID: 1;
+COMPND    2 MOLECULE: AUTOTAXIN ENPP2
+COMPND    3 CHAIN: A;
+COMPND    4 FRAGMENT: RESIDUES 1-862;
+COMPND    5 SYNONYM: AUTOTAXIN ENPP2, EXTRACELLULAR LYSOPHOSPHOLIPASE D,
+COMPND    6  LYSOPLD, AUTOTAXIN, E-NPP 2;
+COMPND    7 EC: 3.1.4.39;
+COMPND    8 ENGINEERED: YES;
+COMPND    9 MUTATION: YES
+COMPND    10 8-(2-Fluoro-phenyl)-4-[3-(5-methyl-[1,3,4]oxadiazol-2-yl)-phenyl]-1,3
+REMARK     Chain A
+REMARK     Chain B
+REMARK     Chain C
+REMARK     Chain I
+REMARK     Chain S
+REMARK     Date 2012-08-24 Time 13:16:43 CEST +0200 (1345807003.14 s)
+REMARK     PHENIX refinement
+REMARK     ****************** INPUT FILES AND LABELS
+REMARK     ******************************
+REMARK     Reflections:
+REMARK     file name      : ../hkl/sad.mtz
+REMARK     labels         : ['IMEAN,SIGIMEAN']
+REMARK     R-free flags:
+REMARK     file name      : ../hkl/sad.mtz
+REMARK     label          : FreeR_flag
+REMARK     test_flag_value: 0
+REMARK     Model file name(s):
+REMARK     /data/xray2/markus/atx/sls/579-6_0718377maybemod/579-6_2/p/start.p
+REMARK     db
+REMARK     ******************** REFINEMENT SUMMARY: QUICK FACTS
+REMARK     *******************
+REMARK     Start: r_work = 0.1624 r_free = 0.2071 bonds = 0.014 angles =
+REMARK     1.338
+REMARK     Final: r_work = 0.1602 r_free = 0.2075 bonds = 0.014 angles =
+REMARK     1.350
+REMARK     ******************************************************************
+REMARK     ******
+REMARK     ****************** REFINEMENT STATISTICS STEP BY STEP
+REMARK     ******************
+REMARK     leading digit, like 1_, means number of macro-cycle
+REMARK     0  : statistics at the very beginning when nothing is done yet
+REMARK     1 s: bulk solvent correction and/or (anisotropic) scaling
+REMARK     1 z: refinement of coordinates
+REMARK     1 p: refinement of ADPs (Atomic Displacement Parameters)
+REMARK     1 c: refinement of occupancies
+REMARK     ------------------------------------------------------------------
+REMARK     ------
+REMARK     R-factors, x-ray target values and norm of gradient of x-ray
+REMARK     target
+REMARK     stage     r-work r-free  xray_target_w  xray_target_t
+REMARK     0    :  0.2778 0.2707   3.050885e+00   3.204292e+00
+REMARK     1_bss:  0.1624 0.2071   2.916432e+00   3.099706e+00
+REMARK     1_ohs:  0.1624 0.2071   2.916432e+00   3.099706e+00
+REMARK     1_xyz:  0.1615 0.2083   2.916263e+00   3.104049e+00
+REMARK     1_adp:  0.1602 0.2072   2.910036e+00   3.099007e+00
+REMARK     1_occ:  0.1607 0.2075   2.911102e+00   3.099684e+00
+REMARK     2_bss:  0.1606 0.2076   2.910919e+00   3.099599e+00
+REMARK     2_ohs:  0.1606 0.2076   2.910919e+00   3.099599e+00
+REMARK     2_xyz:  0.1601 0.2070   2.908589e+00   3.097658e+00
+REMARK     2_adp:  0.1599 0.2069   2.907928e+00   3.097381e+00
+REMARK     2_occ:  0.1603 0.2071   2.908960e+00   3.098175e+00
+REMARK     3_bss:  0.1603 0.2071   2.908980e+00   3.098224e+00
+REMARK     3_ohs:  0.1603 0.2071   2.908980e+00   3.098224e+00
+REMARK     3_xyz:  0.1598 0.2072   2.908157e+00   3.098348e+00
+REMARK     3_adp:  0.1598 0.2072   2.908099e+00   3.098187e+00
+REMARK     3_occ:  0.1602 0.2075   2.909204e+00   3.098998e+00
+REMARK     3_bss:  0.1602 0.2075   2.909199e+00   3.099024e+00
+REMARK     3_ohs:  0.1602 0.2075   2.909199e+00   3.099024e+00
+REMARK     ------------------------------------------------------------------
+REMARK     ------
+REMARK     stage     <pher>    fom   alpha         beta
+REMARK     0    :  24.424 0.8254  0.0770      168.122
+REMARK     1_bss:  21.153 0.8570  0.9540       87.881
+REMARK     1_ohs:  21.153 0.8570  0.9540       87.881
+REMARK     1_xyz:  21.285 0.8557  0.9527       89.003
+REMARK     1_adp:  21.156 0.8569  0.9561       88.060
+REMARK     1_occ:  21.174 0.8568  0.9558       88.474
+REMARK     2_bss:  21.169 0.8568  0.9580       88.489
+REMARK     2_ohs:  21.169 0.8568  0.9580       88.489
+REMARK     2_xyz:  21.093 0.8576  0.9587       87.941
+REMARK     2_adp:  21.077 0.8578  0.9613       87.968
+REMARK     2_occ:  21.094 0.8577  0.9608       88.368
+REMARK     3_bss:  21.095 0.8577  0.9584       88.357
+REMARK     3_ohs:  21.095 0.8577  0.9584       88.357
+REMARK     3_xyz:  21.099 0.8576  0.9585       88.225
+REMARK     3_adp:  21.096 0.8576  0.9613       88.178
+REMARK     3_occ:  21.115 0.8575  0.9609       88.604
+REMARK     3_bss:  21.113 0.8575  0.9579       88.613
+REMARK     3_ohs:  21.113 0.8575  0.9579       88.613
+REMARK     ------------------------------------------------------------------
+REMARK     ------
+REMARK     stage       angl   bond   chir   dihe   plan   repu  geom_target
+REMARK     0    :   1.338  0.014  0.079 17.531  0.007  4.536   7.2749e-02
+REMARK     1_bss:   1.338  0.014  0.079 17.531  0.007  4.536   7.2749e-02
+REMARK     1_ohs:   1.338  0.014  0.079 17.531  0.007  4.536   7.2749e-02
+REMARK     1_xyz:   1.356  0.014  0.079 17.513  0.007  4.537   7.4107e-02
+REMARK     1_adp:   1.356  0.014  0.079 17.513  0.007  4.537   7.4107e-02
+REMARK     1_occ:   1.356  0.014  0.079 17.513  0.007  4.537   7.4107e-02
+REMARK     2_bss:   1.356  0.014  0.079 17.513  0.007  4.537   7.4107e-02
+REMARK     2_ohs:   1.356  0.014  0.079 17.513  0.007  4.537   7.4107e-02
+REMARK     2_xyz:   1.346  0.014  0.079 17.531  0.007  4.536   7.3350e-02
+REMARK     2_adp:   1.346  0.014  0.079 17.531  0.007  4.536   7.3350e-02
+REMARK     2_occ:   1.346  0.014  0.079 17.531  0.007  4.536   7.3350e-02
+REMARK     3_bss:   1.346  0.014  0.079 17.531  0.007  4.536   7.3350e-02
+REMARK     3_ohs:   1.346  0.014  0.079 17.531  0.007  4.536   7.3350e-02
+REMARK     3_xyz:   1.350  0.014  0.079 17.535  0.007  4.536   7.3541e-02
+REMARK     3_adp:   1.350  0.014  0.079 17.535  0.007  4.536   7.3541e-02
+REMARK     3_occ:   1.350  0.014  0.079 17.535  0.007  4.536   7.3541e-02
+REMARK     3_bss:   1.350  0.014  0.079 17.535  0.007  4.536   7.3541e-02
+REMARK     3_ohs:   1.350  0.014  0.079 17.535  0.007  4.536   7.3541e-02
+REMARK     ------------------------------------------------------------------
+REMARK     ------
+REMARK     Maximal deviations:
+REMARK     stage       angl   bond   chir   dihe   plan   repu       |grad|
+REMARK     0    :   9.392  0.441  0.276174.750  0.056  2.024   4.0474e-02
+REMARK     1_bss:   9.392  0.441  0.276174.750  0.056  2.024   4.0474e-02
+REMARK     1_ohs:   9.392  0.441  0.276174.750  0.056  2.024   4.0474e-02
+REMARK     1_xyz:   9.214  0.436  0.273174.592  0.057  2.023   4.1187e-02
+REMARK     1_adp:   9.214  0.436  0.273174.592  0.057  2.023   4.1187e-02
+REMARK     1_occ:   9.214  0.436  0.273174.592  0.057  2.023   4.1187e-02
+REMARK     2_bss:   9.214  0.436  0.273174.592  0.057  2.023   4.1187e-02
+REMARK     2_ohs:   9.214  0.436  0.273174.592  0.057  2.023   4.1187e-02
+REMARK     2_xyz:   9.207  0.446  0.276174.251  0.054  2.032   4.0568e-02
+REMARK     2_adp:   9.207  0.446  0.276174.251  0.054  2.032   4.0568e-02
+REMARK     2_occ:   9.207  0.446  0.276174.251  0.054  2.032   4.0568e-02
+REMARK     3_bss:   9.207  0.446  0.276174.251  0.054  2.032   4.0568e-02
+REMARK     3_ohs:   9.207  0.446  0.276174.251  0.054  2.032   4.0568e-02
+REMARK     3_xyz:   9.256  0.440  0.274174.248  0.055  2.029   4.0640e-02
+REMARK     3_adp:   9.256  0.440  0.274174.248  0.055  2.029   4.0640e-02
+REMARK     3_occ:   9.256  0.440  0.274174.248  0.055  2.029   4.0640e-02
+REMARK     3_bss:   9.256  0.440  0.274174.248  0.055  2.029   4.0640e-02
+REMARK     3_ohs:   9.256  0.440  0.274174.248  0.055  2.029   4.0640e-02
+REMARK     ------------------------------------------------------------------
+REMARK     ------
+REMARK     |-----overall-----|---macromolecule----|------solvent-------|
+REMARK     stage    b_max  b_min  b_ave  b_max  b_min  b_ave  b_max  b_min
+REMARK     b_ave
+REMARK     0    : 103.17  10.62  29.11 103.17  10.62  28.76  49.36  12.70
+REMARK     32.72
+REMARK     1_bss: 103.17  10.62  29.11 103.17  10.62  28.76  49.36  12.70
+REMARK     32.72
+REMARK     1_ohs: 103.17  10.62  29.11 103.17  10.62  28.76  49.36  12.70
+REMARK     32.72
+REMARK     1_xyz: 103.17  10.62  29.11 103.17  10.62  28.76  49.36  12.70
+REMARK     32.72
+REMARK     1_adp: 103.25  10.69  29.20 103.25  10.69  28.87  50.07  12.91
+REMARK     32.59
+REMARK     1_occ: 103.25  10.69  29.20 103.25  10.69  28.87  50.07  12.91
+REMARK     32.59
+REMARK     2_bss: 103.25  10.69  29.20 103.25  10.69  28.87  50.07  12.91
+REMARK     32.59
+REMARK     2_ohs: 103.25  10.69  29.20 103.25  10.69  28.87  50.07  12.91
+REMARK     32.59
+REMARK     2_xyz: 103.25  10.69  29.20 103.25  10.69  28.87  50.07  12.91
+REMARK     32.59
+REMARK     2_adp: 103.44  10.73  29.29 103.44  10.73  28.96  51.17  12.99
+REMARK     32.69
+REMARK     2_occ: 103.44  10.73  29.29 103.44  10.73  28.96  51.17  12.99
+REMARK     32.69
+REMARK     3_bss: 103.44  10.73  29.29 103.44  10.73  28.96  51.17  12.99
+REMARK     32.69
+REMARK     3_ohs: 103.44  10.73  29.29 103.44  10.73  28.96  51.17  12.99
+REMARK     32.69
+REMARK     3_xyz: 103.44  10.73  29.29 103.44  10.73  28.96  51.17  12.99
+REMARK     32.69
+REMARK     3_adp: 103.55  10.67  29.35 103.55  10.67  29.02  51.57  13.10
+REMARK     32.75
+REMARK     3_occ: 103.55  10.67  29.35 103.55  10.67  29.02  51.57  13.10
+REMARK     32.75
+REMARK     3_bss: 103.55  10.67  29.35 103.55  10.67  29.02  51.57  13.10
+REMARK     32.75
+REMARK     3_ohs: 103.55  10.67  29.35 103.55  10.67  29.02  51.57  13.10
+REMARK     32.75
+REMARK     ------------------------------------------------------------------
+REMARK     ------
+REMARK     stage        Deviation of refined
+REMARK     model from start model
+REMARK     max      min     mean
+REMARK     0    :    0.000    0.000    0.000
+REMARK     1_bss:    0.000    0.000    0.000
+REMARK     1_ohs:    0.000    0.000    0.000
+REMARK     1_xyz:    0.649    0.000    0.082
+REMARK     1_adp:    0.649    0.000    0.015
+REMARK     1_occ:    0.649    0.000    0.015
+REMARK     2_bss:    0.649    0.000    0.015
+REMARK     2_ohs:    0.649    0.000    0.015
+REMARK     2_xyz:    0.513    0.000    0.080
+REMARK     2_adp:    0.513    0.000    0.012
+REMARK     2_occ:    0.513    0.000    0.012
+REMARK     3_bss:    0.513    0.000    0.012
+REMARK     3_ohs:    0.513    0.000    0.012
+REMARK     3_xyz:    0.519    0.000    0.082
+REMARK     3_adp:    0.519    0.000    0.015
+REMARK     3_occ:    0.519    0.000    0.015
+REMARK     3_bss:    0.519    0.000    0.015
+REMARK     3_ohs:    0.519    0.000    0.015
+REMARK     ------------------------------------------------------------------
+REMARK     ------
+REMARK     MODEL CONTENT.
+REMARK     ELEMENT        ATOM RECORD COUNT   OCCUPANCY SUM
+REMARK     C                     4248         4212.00
+REMARK     F                        1            1.00
+REMARK     H                     6468            0.00
+REMARK     Cl                        1            1.00
+REMARK     O                     1912         1910.00
+REMARK     N                     1139         1131.00
+REMARK     Ca2+                        1            1.00
+REMARK     S                       50           50.00
+REMARK     Zn2+                        1            1.00
+REMARK     Na1+                        2            2.00
+REMARK     TOTAL                    13823         7309.00
+REMARK     ------------------------------------------------------------------
+REMARK     -----
+REMARK     r_free_flags.md5.hexdigest f32e923671ab5205ba6bc3f75e1dcbaf
+REMARK     IF THIS FILE IS FOR PDB DEPOSITION: REMOVE ALL FROM THIS LINE UP.
+REMARK     3
+REMARK     3 REFINEMENT.
+REMARK     3   PROGRAM     : PHENIX (phenix.refine: dev_1101)
+REMARK     3   AUTHORS     : Adams,Afonine,Chen,Davis,Echols,Gildea,Gopal,
+REMARK     3               : Grosse-
+REMARK     Kunstleve,Headd,Hung,Immormino,Ioerger,McCoy,
+REMARK     3               :
+REMARK     McKee,Moriarty,Pai,Read,Richardson,Richardson,Romo,
+REMARK     3               :
+REMARK     Sacchettini,Sauter,Smith,Storoni,Terwilliger,Zwart
+REMARK     3
+REMARK     3  REFINEMENT TARGET : ML
+REMARK     3
+REMARK     3  DATA USED IN REFINEMENT.
+REMARK     3   RESOLUTION RANGE HIGH (ANGSTROMS) : 1.900
+REMARK     3   RESOLUTION RANGE LOW  (ANGSTROMS) : 46.032
+REMARK     3   MIN(FOBS/SIGMA_FOBS)              : 1.34
+REMARK     3   COMPLETENESS FOR RANGE        (%) : 99.94
+REMARK     3   NUMBER OF REFLECTIONS             : 73631
+REMARK     3   NUMBER OF REFLECTIONS (NON-ANOMALOUS) : 73631
+REMARK     3
+REMARK     3  FIT TO DATA USED IN REFINEMENT.
+REMARK     3   R VALUE     (WORKING + TEST SET) : 0.1626
+REMARK     3   R VALUE            (WORKING SET) : 0.1602
+REMARK     3   FREE R VALUE                     : 0.2075
+REMARK     3   FREE R VALUE TEST SET SIZE   (%) : 5.04
+REMARK     3   FREE R VALUE TEST SET COUNT      : 3714
+REMARK     3
+REMARK     3  FIT TO DATA USED IN REFINEMENT (IN BINS).
+REMARK     3   BIN  RESOLUTION RANGE  COMPL.    NWORK NFREE   RWORK  RFREE
+REMARK     3     1 46.0455 -  5.6966    1.00     2789   154  0.1580 0.1758
+REMARK     3     2  5.6966 -  4.5228    1.00     2652   169  0.1250 0.1818
+REMARK     3     3  4.5228 -  3.9514    1.00     2637   140  0.1189 0.1544
+REMARK     3     4  3.9514 -  3.5903    1.00     2631   133  0.1332 0.1653
+REMARK     3     5  3.5903 -  3.3331    1.00     2632   115  0.1465 0.2006
+REMARK     3     6  3.3331 -  3.1366    1.00     2595   148  0.1504 0.1866
+REMARK     3     7  3.1366 -  2.9795    1.00     2574   153  0.1540 0.1820
+REMARK     3     8  2.9795 -  2.8499    1.00     2611   133  0.1539 0.2222
+REMARK     3     9  2.8499 -  2.7402    1.00     2601   139  0.1504 0.2146
+REMARK     3    10  2.7402 -  2.6456    1.00     2575   132  0.1451 0.1920
+REMARK     3    11  2.6456 -  2.5629    1.00     2555   163  0.1442 0.2208
+REMARK     3    12  2.5629 -  2.4896    1.00     2574   135  0.1503 0.2257
+REMARK     3    13  2.4896 -  2.4241    1.00     2571   148  0.1597 0.2411
+REMARK     3    14  2.4241 -  2.3650    1.00     2585   134  0.1604 0.2115
+REMARK     3    15  2.3650 -  2.3112    1.00     2561   138  0.1637 0.2064
+REMARK     3    16  2.3112 -  2.2620    1.00     2588   118  0.1744 0.2531
+REMARK     3    17  2.2620 -  2.2168    1.00     2561   120  0.1853 0.2412
+REMARK     3    18  2.2168 -  2.1749    1.00     2584   136  0.1902 0.2648
+REMARK     3    19  2.1749 -  2.1361    1.00     2581   134  0.1973 0.2408
+REMARK     3    20  2.1361 -  2.0999    1.00     2528   145  0.2024 0.2420
+REMARK     3    21  2.0999 -  2.0660    1.00     2575   141  0.2106 0.2392
+REMARK     3    22  2.0660 -  2.0342    1.00     2539   132  0.2128 0.3030
+REMARK     3    23  2.0342 -  2.0043    1.00     2562   129  0.2363 0.2815
+REMARK     3    24  2.0043 -  1.9761    1.00     2594   136  0.2454 0.2866
+REMARK     3    25  1.9761 -  1.9494    1.00     2526   149  0.2609 0.3099
+REMARK     3    26  1.9494 -  1.9241    1.00     2558   133  0.2718 0.3191
+REMARK     3    27  1.9241 -  1.9000    1.00     2578   107  0.3027 0.3388
+REMARK     3
+REMARK     3  BULK SOLVENT MODELLING.
+REMARK     3   METHOD USED        : FLAT BULK SOLVENT MODEL
+REMARK     3   SOLVENT RADIUS     : 1.11
+REMARK     3   SHRINKAGE RADIUS   : 0.90
+REMARK     3   GRID STEP FACTOR   : 4.00
+REMARK     3
+REMARK     3  ERROR ESTIMATES.
+REMARK     3   COORDINATE ERROR (MAXIMUM-LIKELIHOOD BASED)     : 0.19
+REMARK     3   PHASE ERROR (DEGREES, MAXIMUM-LIKELIHOOD BASED) : 21.11
+REMARK     3
+REMARK     3  STRUCTURE FACTORS CALCULATION ALGORITHM : FFT
+REMARK     3
+REMARK     3  DEVIATIONS FROM IDEAL VALUES.
+REMARK     3                 RMSD     MAX  COUNT
+REMARK     3   BOND      :  0.014   0.440   6938
+REMARK     3   ANGLE     :  1.350   9.256   9433
+REMARK     3   CHIRALITY :  0.079   0.274   1003
+REMARK     3   PLANARITY :  0.007   0.055   1200
+REMARK     3   DIHEDRAL  : 17.535 174.248   2623
+REMARK     3   MIN NONBONDED DISTANCE : 2.029
+REMARK     3
+REMARK     3  MOLPROBITY STATISTICS.
+REMARK     3   ALL-ATOM CLASHSCORE : 4.34
+REMARK     3   RAMACHANDRAN PLOT:
+REMARK     3     OUTLIERS : 0.25  %
+REMARK     3     ALLOWED  : 2.60  %
+REMARK     3     FAVORED  : 97.16 %
+REMARK     3   ROTAMER OUTLIERS : 1.77 %
+REMARK     3   CBETA DEVIATIONS : 0
+REMARK     3
+REMARK     3  ATOMIC DISPLACEMENT PARAMETERS.
+REMARK     3   WILSON B : 24.04
+REMARK     3   RMS(B_ISO_OR_EQUIVALENT_BONDED) : 4.62
+REMARK     3   ATOMS          NUMBER OF ATOMS
+REMARK     3                    ISO.  ANISO.
+REMARK     3    ALL         :  13823       0
+REMARK     3    ALL (NO H)  :   7355       0
+REMARK     3    SOLVENT     :    651       0
+REMARK     3    NON-SOLVENT :   6704       0
+REMARK     3    HYDROGENS   :   6468       0
+REMARK     3
+REMARK     200
+REMARK     200 EXPERIMENTAL DETAILS
+REMARK     200  EXPERIMENT TYPE                : X-RAY DIFFRACTION
+REMARK     200  DATE OF  DATA COLLECTION       : 2012-08-21T19:09:46.412
+REMARK     200  TEMPERATURE           (KELVIN) : 100
+REMARK     200  PH                             : NULL
+REMARK     200  NUMBER  OF CRYSTALS USED       : 1
+REMARK     200
+REMARK     200  SYNCHROTRON              (Y/N) : Y
+REMARK     200  RADIATION SOURCE               : SLS
+REMARK     200  BEAMLINE                       : X10SA
+REMARK     200  X-RAY  GENERATOR MODEL         : NULL
+REMARK     200  MONOCHROMATIC OR LAUE    (M/L) : M
+REMARK     200  WAVELENGTH OR RANGE        (A) : 0.99996
+REMARK     200  MONOCHROMATOR                  : NULL
+REMARK     200  OPTICS                         : NULL
+REMARK     200
+REMARK     200  DETECTOR TYPE                  : PIXEL
+REMARK     200  DETECTOR MANUFACTURER          : DECTRIS PILATUS 6M
+REMARK     200  INTENSITY-INTEGRATION SOFTWARE : XDS (VERSION March 15, 2012)
+REMARK     200  DATA  SCALING SOFTWARE         : SADABS
+REMARK     200
+REMARK     200  NUMBER  OF UNIQUE REFLECTIONS  : 73732
+REMARK     200  RESOLUTION RANGE HIGH      (A) : 1.90
+REMARK     200  RESOLUTION RANGE LOW       (A) : 46.03
+REMARK     200  REJECTION CRITERIA  (SIGMA(I)) : NULL
+REMARK     200
+REMARK     200 OVERALL.
+REMARK     200  COMPLETENESS FOR RANGE     (%) : 100.0
+REMARK     200  DATA  REDUNDANCY               : 6.73
+REMARK     200  R  MERGE                   (I) : 0.1561
+REMARK     200  R  SYM                     (I) : 0.1561
+REMARK     200  <I/SIGMA(I)> FOR THE DATA SET  : 8.18
+REMARK     200
+REMARK     200 IN THE HIGHEST RESOLUTION SHELL.
+REMARK     200  HIGHEST RESOLUTION SHELL, RANGE HIGH (A) : 1.90
+REMARK     200  HIGHEST RESOLUTION SHELL, RANGE LOW  (A) : 2.00
+REMARK     200  COMPLETENESS FOR SHELL     (%) : 100.0
+REMARK     200  DATA  REDUNDANCY IN SHELL      : 6.92
+REMARK     200  R MERGE  FOR SHELL         (I) : 0.7769
+REMARK     200  R SYM  FOR SHELL           (I) : 0.7769
+REMARK     200  <I/SIGMA(I)> FOR SHELL         : 1.31
+REMARK     200
+REMARK     200 DIFFRACTION PROTOCOL: SINGLE WAVELENGTH
+REMARK     200 METHOD USED TO DETERMINE THE STRUCTURE: MOLECULAR REPLACEMENT
+REMARK     200 SOFTWARE USED: NULL
+REMARK     200 STARTING MODEL:  NULL
+REMARK     200
+REMARK     200 REMARK: NULL
+REMARK     280
+REMARK     280 CRYSTAL
+CRYST1   83.899   92.064  119.722  90.00  90.00  90.00 P 1           1
+ATOM      1  C01 L0R C   1     -11.882   7.635  43.384  1.00 32.02      C    C  
+ATOM      2  C02 L0R C   1     -12.891   5.252  44.509  1.00 32.88      C    C  
+ATOM      3  C03 L0R C   1     -11.342   6.337  43.014  1.00 34.49      C    C  
+ATOM      4  C04 L0R C   1     -11.872   5.153  43.549  1.00 27.01      C    C  
+ATOM      5  C05 L0R C   1     -13.435   6.534  44.896  1.00 37.54      C    C  
+ATOM      6  C06 L0R C   1     -12.908   7.735  44.331  1.00 39.12      C    C  
+ATOM      7  N07 L0R C   1     -13.545   8.988  44.765  1.00 41.15      C    N  
+ATOM      8  C08 L0R C   1     -13.991   9.469  46.078  1.00 51.83      C    C  
+ATOM      9  C09 L0R C   1     -13.819   8.607  47.231  1.00 42.42      C    C  
+ATOM     10  C10 L0R C   1     -14.843   7.578  46.966  1.00 36.81      C    C  
+ATOM     11  N11 L0R C   1     -14.572   6.646  45.864  1.00 32.47      C    N  
+ATOM     12  C12 L0R C   1     -14.710  10.816  46.167  1.00 51.49      C    C  
+ATOM     13  O13 L0R C   1     -15.879   7.504  47.625  1.00 35.55      C    O  
+ATOM     14  C14 L0R C   1     -15.405  11.277  47.309  1.00 41.84      C    C  
+ATOM     15  C15 L0R C   1     -16.086  13.294  46.109  1.00 42.65      C    C  
+ATOM     16  C16 L0R C   1     -15.409  12.813  44.965  1.00 57.57      C    C  
+ATOM     17  C17 L0R C   1     -16.081  12.530  47.266  1.00 51.29      C    C  
+ATOM     18  C18 L0R C   1     -14.742  11.577  45.012  1.00 55.95      C    C  
+ATOM     19  C19 L0R C   1     -15.326  13.515  43.626  1.00 56.86      C    C  
+ATOM     20  O20 L0R C   1     -15.682  12.932  42.444  1.00 74.53      C    O  
+ATOM     21  C21 L0R C   1     -15.452  13.814  41.415  1.00 63.91      C    C  
+ATOM     22  N22 L0R C   1     -14.945  14.932  41.976  1.00 66.14      C    N  
+ATOM     23  N23 L0R C   1     -14.860  14.754  43.348  1.00 62.33      C    N  
+ATOM     24  C24 L0R C   1     -15.732  13.557  39.934  1.00 56.65      C    C  
+ATOM     25  C25 L0R C   1     -11.302   3.878  43.206  1.00 26.68      C    C  
+ATOM     26  C26 L0R C   1     -11.060   3.493  41.886  1.00 28.53      C    C  
+ATOM     27  C27 L0R C   1     -10.090   1.410  42.617  1.00 33.14      C    C  
+ATOM     28  C28 L0R C   1     -10.299   1.796  43.931  1.00 32.27      C    C  
+ATOM     29  C29 L0R C   1     -10.475   2.265  41.585  1.00 30.55      C    C  
+ATOM     30  C30 L0R C   1     -10.914   3.022  44.227  1.00 31.22      C    C  
+ATOM     31  F31 L0R C   1     -11.429   4.280  40.881  1.00 42.02      C    F  
+ATOM     32  H32 L0R C   1     -11.510   8.443  42.992  1.00 38.42      C    H  
+ATOM     33  H33 L0R C   1     -13.246   4.478  44.879  1.00 39.45      C    H  
+ATOM     34  H34 L0R C   1     -10.631   6.290  42.385  1.00 41.39      C    H  
+ATOM     35  H35 L0R C   1     -14.010   9.084  48.063  1.00 50.91      C    H  
+ATOM     36  H36 L0R C   1     -12.920   8.217  47.246  1.00 50.91      C    H  
+ATOM     37  H37 L0R C   1     -15.247   6.025  45.723  1.00 38.96      C    H  
+ATOM     38  H38 L0R C   1     -15.404  10.748  48.132  1.00 50.21      C    H  
+ATOM     39  H39 L0R C   1     -16.556  14.170  46.085  1.00 51.18      C    H  
+ATOM     40  H40 L0R C   1     -16.558  12.872  48.094  1.00 61.55      C    H  
+ATOM     41  H41 L0R C   1     -14.290  11.256  44.221  1.00 67.14      C    H  
+ATOM     42  H42 L0R C   1     -15.251  12.794  39.649  1.00 67.98      C    H  
+ATOM     43  H43 L0R C   1     -15.447  14.346  39.402  1.00 67.98      C    H  
+ATOM     44  H44 L0R C   1     -16.684  13.407  39.806  1.00 67.98      C    H  
+ATOM     45  H45 L0R C   1      -9.678   0.540  42.415  1.00 39.77      C    H  
+ATOM     46  H46 L0R C   1     -10.042   1.202  44.651  1.00 38.72      C    H  
+ATOM     47  H47 L0R C   1     -10.335   2.007  40.660  1.00 36.66      C    H  
+ATOM     48  H48 L0R C   1     -11.043   3.286  45.156  1.00 37.46      C    H  
+END

@@ -1,0 +1,12 @@
+2xxxx
+cuda_name: cuda
+Learning rate:  0.0005
+Epochs:  1
+data1/processed/L_P_train_complex1_L4_poc.ptxxxxxxxxxxx
+Pre-processed data found: data1/processed/L_P_train_complex1_L4_poc.pt, loading ...
+NVIDIA GeForce RTX 3080 Ti
+True
+alldata len: 90
+Test on 90 samples...
+78xxxxxx
+Make prediction for 90 samples...

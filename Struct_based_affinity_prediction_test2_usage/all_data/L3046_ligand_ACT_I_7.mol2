@@ -1,0 +1,15 @@
+@<TRIPOS>MOLECULE
+L3046_ligand_ACT_I_7.pdb
+ 4 3 0 0 0
+SMALL
+GASTEIGER
+
+@<TRIPOS>ATOM
+      1  OXT       -6.0610   11.9900   53.7220 O.co2   7  ACT7       -0.5492
+      2  C         -6.7760   11.0510   53.2670 C.2     7  ACT7        0.0507
+      3  O         -6.2980    9.8980   53.2660 O.co2   7  ACT7       -0.5492
+      4  CH3       -8.2040   11.1100   52.6920 C.3     7  ACT7        0.0476
+@<TRIPOS>BOND
+     1     4     2    1
+     2     3     2   ar
+     3     2     1   ar
